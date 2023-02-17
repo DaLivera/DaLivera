@@ -1,4 +1,4 @@
-![Descripción de la imagen]([/images/picture.jpg](https://media.licdn.com/dms/image/D4D16AQEYktBakC_B1A/profile-displaybackgroundimage-shrink_350_1400/0/1675811666193?e=1681948800&v=beta&t=YrwcyPOOWjAD3i_Fd2jjwfcI8gg2Fm1_J6C6SZwgPzE) "Leyenda de la imagen")
+![Descripción de la imagen]([/images/picture.jpg "Leyenda de la imagen"](https://www.abom.com.mx/invex/2019/00-Layouts/01-invex/imagenes/portada-david-rotllan.png))
 
 # Hola, ni nombre es David! 👋🏻
 
