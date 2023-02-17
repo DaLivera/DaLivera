@@ -1,4 +1,4 @@
-![Descripción de la imagen]([/images/picture.jpg "Leyenda de la imagen"](https://www.abom.com.mx/invex/2019/00-Layouts/01-invex/imagenes/portada-david-rotllan.png))
+![Logo David Rotllan](https://www.abom.com.mx/invex/2019/00-Layouts/01-invex/imagenes/portada-david-rotllan.png)
 
 # Hola, ni nombre es David! 👋🏻
 
